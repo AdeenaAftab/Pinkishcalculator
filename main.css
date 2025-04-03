@@ -56,7 +56,7 @@ h1 {
 }
 
 .buttons button.selected {
-    background-color: #aa8837; /* Darker shade of royal blue for selected button */
+    background-color: #F867C4; /* Darker shade of royal blue for selected button */
     color: white;
 }
 
@@ -90,7 +90,7 @@ input[type="number"] {
 }
 
 .progress-bar {
-    background-color: ##F867C4;
+    background-color: #F867C4;
     height: 100%;
     width: 0%;
     border-radius: 5px;
